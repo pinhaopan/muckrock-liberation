@@ -27,7 +27,11 @@ The project data provided to us is inform of PDFs, so the first priority is to o
 [3] An optimized ensemble model based on meta-heuristic algorithms for effective detection and classification of breast tumors Springer (2024) - https://link.springer.com/content/pdf/10.1007/s00521-024-10719-9.pdf \
 [4] Spatial Clusters of Gambling Outlet: A Machine Learning Tree-Based Algorithm. MDPI (2024) - https://www.mdpi.com/2571-905X/8/1/4 \
 [5] A Survey on Deep Learning based Time Series Analysis with Frequency Transformation. arXiv (2023) - https://arxiv.org/pdf/2302.02173
+
 [6] Paterson, M., Whitty, M., & Leslie, P. (2021). Exploring the prevalence of gambling harm among active duty military personnel: a systematic scoping review. Journal of gambling studies, 37(2), 529-549.
+
 [7] U.S. Government Accountability Office. (2017, January 30). Military Personnel: DOD and the Coast Guard Need to Screen for Gambling Disorder Addiction and Update Guidance (GAO-17-114). https://www.gao.gov/products/gao-17-114
+
 [8]Thalheimer, R., & Ali, M. M. (2008). Table games, slot machines and casino revenue. Applied Economics, 40(18), 2395-2404.
+
 [9]Lucas, A. F., & Brewer, K. P. (2001). Managing the slot operations of a hotel casino in the Las Vegas locals’ market. Journal of Hospitality & Tourism Research, 25(3), 289-301.
