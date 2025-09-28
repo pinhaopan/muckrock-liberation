@@ -9,6 +9,34 @@ This project will look into the nature of the recreational scene in United State
 3. Which types of games or machines generate the most revenue?
 4. How have the types of games or machines installed at bases changed over time?
 
+## Project Goals and Objectivees
+### Goals
+High-level, strategic outcomes that the project is intended to achieve.
+*   *Goal 1:* Provide data-driven insights to optimize revenue generation while adhering to ethical guidelines.
+*   *Goal 2:* Develop a comprehensive understanding of revenue trends over specified periods.
+*   *Goal 3:* Support informed decision-making regarding resource allocation and operational planning.
+
+### Objectives
+Specific, measurable, achievable, relevant, and time-bound (SMART) objectives that support the project goals.
+*   *Objective 1:* Analyze base-level revenues. We will look into revenue production across all military bases and study any abnormal events or trends.
+*   *Objective 2:* Develop machine learning models to identify or potentially cluster regions that generate higher than average revenue. The same study will be implemented into machine-level analysis as well. 
+*   *Objective 3:* Assess culture and political influences in each base country's. We will study how each different country's policies and culture could potentially influence the service members behaviours or stigma towards slot machines.
+
+## Scope
+
+### In-Scope
+List the features, functionalities, and deliverables that are part of this project.
+*   Analysis of "monthly revenue reports," "machine performance logs" from [2020 - 2025].
+*   Development of internal reports and presentations for project stakeholders.
+*   Secure storage and processing of all confidential data.
+*   Identification of factors influencing revenue fluctuations.
+
+### Out-of-Scope
+List the things that are not part of this project to prevent "scope creep" and maintain focus.
+*   Public disclosure or external publication of any project findings.
+*   Analysis of data beyond the specified US Military sources.
+
+
 ## Methodology
   ### Data Extraction/Collection
   - ARMP Revenue, Assets, and Financial Statements
@@ -30,6 +58,14 @@ This project will look into the nature of the recreational scene in United State
 ## Deliverables
   - A Datasette dashboard with interactive elements
   - Data presentation to provide clear overview of analysis
+
+## Stakeholders
+### Team Members
+1. Devanshu Joshua
+2. Howard Mckeon
+3. Joshua Emmanuel
+4. Khushi Anil Teli
+
 
 ## Limitations
 **I. Limited Data availability:** A large portion of some of the data are redacted and may require further workarounds.
