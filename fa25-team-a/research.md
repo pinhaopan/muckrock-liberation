@@ -32,7 +32,7 @@ The project data provided to us is inform of PDFs, so the first priority is to o
 [6] Paterson, M., Whitty, M., & Leslie, P. (2021). Exploring the prevalence of gambling harm among active duty military personnel: a systematic scoping review. Journal of gambling studies, 37(2), 529-549.  
 [7] U.S. Government Accountability Office. (2017, January 30). Military Personnel: DOD and the Coast Guard Need to Screen for Gambling Disorder Addiction and Update Guidance (GAO-17-114). https://www.gao.gov/products/gao-17-114  
 [8]Thalheimer, R., & Ali, M. M. (2008). Table games, slot machines and casino revenue. Applied Economics, 40(18), 2395-2404.  
-[9]Lucas, A. F., & Brewer, K. P. (2001). Managing the slot operations of a hotel casino in the Las Vegas locals’ market. Journal of Hospitality & Tourism Research, 25(3), 289-301.
+[9]Lucas, A. F., & Brewer, K. P. (2001). Managing the slot operations of a hotel casino in the Las Vegas locals’ market. Journal of Hospitality & Tourism Research, 25(3), 289-301. \
 [10] U.S Senate, Committee on Appropriations. (2025). Department of Defense Appropriations Bill, 2026: Report to accompany S. 000 (Committee Print, 119th Cong., 1st Sess.). U.S. Government Printing Office \
 [11] U.S. Government Accountability Office. (2025). Military personnel: More guidance could help address ervice members gambling problems (GAO-25-107700). https://www.gao.gov/assets/gao-25-107700.pdf \
 
