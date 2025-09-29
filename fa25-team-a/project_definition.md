@@ -51,7 +51,6 @@ List the things that are not part of this project to prevent "scope creep" and m
   - ANOVA
   - One-sample T-tests
   ### Tools
-  - R studio
   - Python
   - Datasette
 
@@ -61,7 +60,7 @@ List the things that are not part of this project to prevent "scope creep" and m
 
 ## Stakeholders
 ### Team Members
-1. Devanshu Joshua
+1. Devanshu Joshi
 2. Howard Mckeon
 3. Joshua Emmanuel
 4. Khushi Anil Teli
