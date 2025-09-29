@@ -65,6 +65,7 @@ List the things that are not part of this project to prevent "scope creep" and m
 2. Howard Mckeon
 3. Joshua Emmanuel
 4. Khushi Anil Teli
+5. Sodbileg Ganbat
 
 
 ## Limitations
