@@ -1,0 +1,735 @@
+Details,Current Balance,Month,Year,Type
+Cash--Operating,"2,38,22,204.63",March,2023,Asset
+Cash--Restricted,"1,54,48,852.84",March,2023,Asset
+Accounts Receivable,"2,61,378.56",March,2023,Asset
+Prepaid Expenses,"3,43,049.36",March,2023,Asset
+Fixed Assets,"4,43,71,000.09",March,2023,Asset
+Less Accum Depreciation,"3,28,83,183.68",March,2023,Asset
+TOTAL ASSETS                                  ,"5,13,63,301.80",March,2023,Asset
+Accounts Payable,"19,23,038.16",March,2023,Liability
+Distributions Payable,"17,10,797.93",March,2023,Liability
+Accrued Liabilities,"14,03,199.97",March,2023,Liability
+Accrued Salaries,"5,38,023.11",March,2023,Liability
+Accrued Leave Payable,"5,55,269.59",March,2023,Liability
+Total Liabilities,"61,30,328.76",March,2023,Liability
+EQUITY,"4,52,32,973.04",March,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,13,63,301.80",March,2023,Liability
+Cash,"2,82,41,642.00",January,2020,Asset
+Accounts Receivable,"1,57,152.59",January,2020,Asset
+Prepaid Expenses,"3,77,506.31",January,2020,Asset
+Fixed Assets,"4,53,31,635.43",January,2020,Asset
+Less Accum Depreciation,"-2,97,04,609.76",January,2020,Asset
+TOTAL ASSETS,"4,44,03,326.57",January,2020,Asset
+Accounts Payable,"8,33,576.04",January,2020,Liability
+Distributions Payable,"14,32,593.11",January,2020,Liability
+Accrued Liabilities,"13,61,793.76",January,2020,Liability
+Accrued Salaries,"3,70,138.33",January,2020,Liability
+Accrued Leave Payable,"4,89,740.50",January,2020,Liability
+Total Liabilities,"44,87,841.74",January,2020,Liability
+EQUITY,"3,99,15,484.83",January,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,44,03,326.57",January,2020,Liability
+Cash,"3,12,12,799.45",January,2021,Asset
+Accounts Receivable,"2,44,243.99",January,2021,Asset
+Prepaid Expenses,"3,15,417.74",January,2021,Asset
+Fixed Assets,"4,49,72,216.09",January,2021,Asset
+Less Accum Depreciation,"3,18,04,417.44",January,2021,Asset
+TOTAL ASSETS,"4,49,40,259.83",January,2021,Asset
+Accounts Payable,"5,14,682.25",January,2021,Liability
+Accrued Liabilities,"14,60,833.88",January,2021,Liability
+Accrued Salaries,"3,75,743.30",January,2021,Liability
+Accrued Leave Payable,"5,19,467.32",January,2021,Liability
+Total Liabilities,"28,70,726.75",January,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,20,69,533.08",January,2021,Liability
+Cash,"3,93,39,454.24",January,2022,Asset
+Accounts Receivable,"2,32,942.98",January,2022,Asset
+Prepaid Expenses,"4,15,342.13",January,2022,Asset
+Fixed Assets,"4,29,12,855.73",January,2022,Asset
+Less Accum Depreciation,"-3,38,35,659.16",January,2022,Asset
+TOTAL ASSETS,"49,064,935.92
+",January,2022,Asset
+Accounts Payable,"5,76,746.14",January,2022,Liability
+Distributions Payable,"6,56,113.82",January,2022,Liability
+Accrued Liabilities,"16,45,371.31",January,2022,Liability
+Accrued Salaries,"4,33,439.15",January,2022,Liability
+Accrued Leave Payable,"5,20,292.46",January,2022,Liability
+Total Liabilities,"38,31,962.88",January,2022,Liability
+EQUITY,"4,52,32,973.04",January,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,90,64,935.92",January,2022,Liability
+Cash--Operating,"2,35,36,831.76",January,2023,Asset
+Cash--Restricted,"1,72,19,096.52",January,2023,Asset
+Accounts Receivable,"2,37,956.49",January,2023,Asset
+Prepaid Expenses,"4,28,773.89",January,2023,Asset
+Fixed Assets,"4,40,64,006.18",January,2023,Asset
+Less Accum Depreciation,"-3,40,54,098.56",January,2023,Asset
+TOTAL ASSETS,"5,14,32,566.28",January,2023,Asset
+Accounts Payable,"19,55,304.52",January,2023,Liability
+Distributions Payable,"20,13,628.95",January,2023,Liability
+Accrued Liabilities,"12,76,419.09",January,2023,Liability
+Accrued Salaries,"4,43,377.67",January,2023,Liability
+Accrued Leave Payable,"5,10,863.01",January,2023,Liability
+Total Liabilities,"61,99,593.24",January,2023,Liability
+EQUITY,"4,52,32,973.04",January,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,14,32,566.28",January,2023,Liability
+Accounts Payable,"33,84,537.65",January,2024,Liability
+Distributions Payable,"23,36,234.21",January,2024,Liability
+Accrued Liabilities,"16,13,579.03",January,2024,Liability
+Accrued Salaries,"4,98,303.85",January,2024,Liability
+Accrued Leave Payable,"5,51,251.34",January,2024,Liability
+Total Liabilities,"83,83,906.08",January,2024,Liability
+EQUITY,"4,52,32,973.04",January,2024,Liability
+TOTAL LIABILITIES & EQUITY,"5,36,16,879.12",January,2024,Liability
+Cash,"2,86,12,436.38",February,2020,Asset
+Accounts Receivable,"1,36,046.36",February,2020,Asset
+Prepaid Expenses,"3,49,426.24",February,2020,Asset
+Fixed Assets,"4,48,30,490.70",February,2020,Asset
+Less Accum Depreciation,"-2,95,97,789.92",February,2020,Asset
+TOTAL ASSETS,"4,43,30,609.76",February,2020,Asset
+Accounts Payable,"5,06,803.88",February,2020,Liability
+Distributions Payable,"12,86,519.03",February,2020,Liability
+Accrued Liabilities,"13,94,580.85",February,2020,Liability
+Accrued Salaries,"3,71,144.44",February,2020,Liability
+Accrued Leave Payable,"5,03,212.35",February,2020,Liability
+Total Liabilities,"40,62,260.55",February,2020,Liability
+EQUITY,"4,02,68,349.21",February,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,43,30,609.76",February,2020,Liability
+Cash,"3,21,28,305.70",February,2021,Asset
+Accounts Receivable,"1,51,942.37",February,2021,Asset
+Prepaid Expenses,"4,38,296.59",February,2021,Asset
+Fixed Assets,"4,47,10,134.56",February,2021,Asset
+Less Accum Depreciation,"-3,19,11,242.96",February,2021,Asset
+TOTAL ASSETS,"4,55,17,436.26",February,2021,Asset
+Accounts Payable,"4,23,974.89",February,2021,Liability
+Distributions Payable,"3,14,805.03",February,2021,Liability
+Accrued Liabilities,"14,17,426.72",February,2021,Liability
+Accrued Salaries,"3,76,670.26",February,2021,Liability
+Accrued Leave Payable,"5,43,307.94",February,2021,Liability
+Total Liabilities,"30,76,184.84",February,2021,Liability
+EQUITY,"4,24,41,251.42",February,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,55,17,436.26",February,2021,Liability
+Cash,"4,05,43,679.19",February,2022,Asset
+Accounts Receivable,"2,23,165.07",February,2022,Asset
+Prepaid Expenses,"3,85,184.63",February,2022,Asset
+Fixed Assets,"4,25,60,675.20",February,2022,Asset
+Less Accum Depreciation,"-3,37,99,424.29",February,2022,Asset
+TOTAL ASSETS,"4,99,13,279.80",February,2022,Asset
+Accounts Payable,"4,04,983.90",February,2022,Liability
+Distributions Payable,"13,75,062.74",February,2022,Liability
+Accrued Liabilities,"19,62,390.27",February,2022,Liability
+Accrued Salaries,"4,04,267.43",February,2022,Liability
+Accrued Leave Payable,"5,33,602.42",February,2022,Liability
+Total Liabilities,"46,80,306.76",February,2022,Liability
+EQUITY,"4,52,32,973.04",February,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,99,13,279.80",February,2022,Liability
+Cash--Operating,"2,30,88,202.58",February,2023,Asset
+Cash--Restricted,"1,58,23,254.88",February,2023,Asset
+Accounts Receivable,"2,31,825.35",February,2023,Asset
+Prepaid Expenses,"3,92,986.42",February,2023,Asset
+Fixed Assets,"4,45,74,249.47",February,2023,Asset
+Less Accum Depreciation,"-3,40,71,710.50",February,2023,Asset
+TOTAL ASSETS,"5,00,38,808.20",February,2023,Asset
+Accounts Payable,"12,78,590.28",February,2023,Liability
+Distributions Payable,"13,72,126.45",February,2023,Liability
+Accrued Liabilities,"11,69,862.27",February,2023,Liability
+Accrued Salaries,"4,50,494.57",February,2023,Liability
+Accrued Leave Payable,"5,34,761.59",February,2023,Liability
+Total Liabilities,"48,05,835.16",February,2023,Liability
+EQUITY,"4,52,32,973.04",February,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,00,38,808.20",February,2023,Liability
+Cash--Operating,"2,94,07,494.07",February,2024,Asset
+Cash--Restricted,"2,06,483.11",February,2024,Asset
+Accounts Receivable,"4,31,585.80",February,2024,Asset
+Prepaid Expenses,"6,85,212.22",February,2024,Asset
+Fixed Assets,"4,89,70,804.58",February,2024,Asset
+Less Accum Depreciation,"-2,90,40,177.78",February,2024,Asset
+TOTAL ASSETS,"5,06,61,402.00",February,2024,Asset
+Accounts Payable,"9,21,862.63",February,2024,Liability
+Distributions Payable,"18,45,396.66",February,2024,Liability
+Accrued Liabilities,"15,59,487.16",February,2024,Liability
+Accrued Salaries,"5,34,336.80",February,2024,Liability
+Accrued Leave Payable,"5,67,345.71",February,2024,Liability
+Total Liabilities,"54,28,428.96",February,2024,Liability
+EQUITY,"4,52,32,973.04",February,2024,Liability
+TOTAL LIABILITIES & EQUITY,"5,06,61,402.00",February,2024,Liability
+Cash,"2,91,17,242.47",March,2020,Asset
+Accounts Receivable,"87,598.94",March,2020,Asset
+Prepaid Expenses,"2,97,205.18",March,2020,Asset
+Fixed Assets,"4,46,69,027.87",March,2020,Asset
+Less Accum Depreciation,"-2,97,21,453.73",March,2020,Asset
+TOTAL ASSETS,"4,44,49,620.73",March,2020,Asset
+Accounts Payable,"5,60,634.16",March,2020,Liability
+Distributions Payable,"11,06,671.73",March,2020,Liability
+Accrued Liabilities,"12,24,818.19",March,2020,Liability
+Accrued Salaries,"4,18,210.67",March,2020,Liability
+Accrued Leave Payable,"5,17,545.77",March,2020,Liability
+Total Liabilities,"38,27,880.52",March,2020,Liability
+EQUITY,"4,06,21,740.21",March,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,44,49,620.73",March,2020,Liability
+Cash,"3,41,07,125.67",March,2021,Asset
+Accounts Receivable,"1,47,254.53",March,2021,Asset
+Prepaid Expenses,"3,79,269.43",March,2021,Asset
+Fixed Assets,"44,558,381. 76",March,2021,Asset
+Less Accum Depreciation,"-3,21,18,569.17",March,2021,Asset
+TOTAL ASSETS,"4,70,73,462.22",March,2021,Asset
+Accounts Payable,"4,09,855.39",March,2021,Liability
+Distributions Payable,"15,85,670.68",March,2021,Liability
+Accrued Liabilities,"12,52,052.94",March,2021,Liability
+Accrued Salaries,"4,62,451.60",March,2021,Liability
+Accrued Leave Payable,"5,60,578.13",March,2021,Liability
+Total Liabilities,"42,70,608.74",March,2021,Liability
+EQUITY,"4,28,02,853.48",March,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,70,73,462.22",March,2021,Liability
+Cash--Operating,"1,88,81,300.05",March,2022,Asset
+Cash--Restricted,"2,27,20,803.91",March,2022,Asset
+Accounts Receivable,"2,12,833.20",March,2022,Asset
+Prepaid Expenses,"3,48,446.11",March,2022,Asset
+Fixed Assets,"4,25,03,497.02",March,2022,Asset
+Less Accum Depreciation,"-3,40,34,112.49",March,2022,Asset
+TOTAL ASSETS,"5,06,32,767.80",March,2022,Asset
+Accounts Payable,"4,16,112.48",March,2022,Liability
+Distributions Payable,"26,47,952.75",March,2022,Liability
+Accrued Liabilities,"13,17,039.17",March,2022,Liability
+Accrued Salaries,"4,88,759.00",March,2022,Liability
+Accrued Leave Payable,"5,29,931.36",March,2022,Liability
+Total Liabilities,"53,99,794.76",March,2022,Liability
+EQUITY,"4,52,32,973.04",March,2022,Liability
+TOTAL LIABILITIES & EQUITY,"5,06,32,767.80",March,2022,Liability
+Cash--Operating,"3,03,54,883.02",March,2024,Asset
+Accounts Receivable,"1,99,639.00",March,2024,Asset
+Prepaid Expenses,"5,73,451.88",March,2024,Asset
+Fixed Assets,"4,97,32,957.86",March,2024,Asset
+Less Accum Depreciation,"-2,93,41,086.33",March,2024,Asset
+TOTAL ASSETS,"5,15,19,845.43",March,2024,Asset
+Accounts Payable,"12,16,471.78",March,2024,Liability
+Distributions Payable,"17,20,399.93",March,2024,Liability
+Accrued Liabilities,"18,61,303.32",March,2024,Liability
+Accrued Salaries,"8,97,480.82",March,2024,Liability
+Accrued Leave Payable,"5,91,216.54",March,2024,Liability
+Total Liabilities,"62,86,872.39",March,2024,Liability
+EQUITY,"4,52,32,973.04",March,2024,Liability
+TOTAL LIABILITIES & EQUITY,"5,15,19,845.43",March,2024,Liability
+Cash,"2,77,84,081.33",April,2020,Asset
+Accounts Receivable,"3,01,599.33",April,2020,Asset
+Prepaid Expenses,"2,48,477.27",April,2020,Asset
+Fixed Assets,"4,42,73,420.39",April,2020,Asset
+Less Accum Depreciation,"-2,96,83,473.43",April,2020,Asset
+TOTAL ASSETS,"4,29,24,104.89",April,2020,Asset
+Accounts Payable,"4,18,595.11",April,2020,Liability
+Accrued Liabilities,"11,67,850.66",April,2020,Liability
+Accrued Salaries,"4,77,336.62",April,2020,Liability
+Accrued Leave Payable,"5,25,357.03",April,2020,Liability
+Total Liabilities,"25,89,139.42",April,2020,Liability
+EQUITY,"4,03,34,965.47",April,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,29,24,104.89",April,2020,Liability
+Cash,"3,47,34,116.97",April,2021,Asset
+Accounts Receivable,"98,328.63",April,2021,Asset
+Prepaid Expenses,"3,19,835.09",April,2021,Asset
+Fixed Assets,"4,45,22,978.37",April,2021,Asset
+Less Accum Depreciation,"-3,24,40,470.39",April,2021,Asset
+TOTAL ASSETS,"4,72,34,788.67",April,2021,Asset
+Accounts Payable,"3,39,406.73",April,2021,Liability
+Distributions Payable,"13,63,866.16",April,2021,Liability
+Accrued Liabilities,"12,74,096.95",April,2021,Liability
+Accrued Salaries,"5,21,175.42",April,2021,Liability
+Accrued Leave Payable,"5,76,762.29",April,2021,Liability
+Total Liabilities,"40,75,307.55",April,2021,Liability
+EQUITY,"4,31,59,481.12",April,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,72,34,788.67",April,2021,Liability
+Cash--Operating,"1,84,13,504.87",April,2022,Asset
+Cash--Restricted,"2,22,83,679.91",April,2022,Asset
+Accounts Receivable,"2,49,829.45",April,2022,Asset
+Prepaid Expenses,"3,25,426.54",April,2022,Asset
+Fixed Assets,"4,25,03,497.02",April,2022,Asset
+Less Accum Depreciation,"-3,43,14,305.06",April,2022,Asset
+TOTAL ASSETS,"4,94,61,632.73",April,2022,Asset
+Accounts Payable,"4,60,623.09",April,2022,Liability
+Distributions Payable,"10,44,851.55",April,2022,Liability
+Accrued Liabilities,"16,43,452.96",April,2022,Liability
+Accrued Salaries,"5,22,496.25",April,2022,Liability
+Accrued Leave Payable,"5,57,235.84",April,2022,Liability
+Total Liabilities,"42,28,659.69",April,2022,Liability
+EQUITY,"4,52,32,973.04",April,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,94,61,632.73",April,2022,Liability
+Accounts Payable,"5,67,201.85",April,2023,Liability
+Distributions Payable,"15,38,823.38",April,2023,Liability
+Accrued Liabilities,"16,06,131.54",April,2023,Liability
+Accrued Salaries,"5,37,758.56",April,2023,Liability
+Accrued Leave Payable,"5,72,630.53",April,2023,Liability
+Total Liabilities,"48,22,545.86",April,2023,Liability
+EQUITY,"4,52,32,973.04",April,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,00,55,518.90",April,2023,Liability
+Cash,"2,84,86,503.30",May,2020,Asset
+Accounts Receivable,"1,88,198.49",May,2020,Asset
+Prepaid Expenses,"1,96,731.74",May,2020,Asset
+Fixed Assets,"4,43,03,452.85",May,2020,Asset
+Less Accum Pepreciation,"2,99,65,905.51",May,2020,Asset
+TOTAL ASSETS,"4,32,08,980.87",May,2020,Asset
+LIABILITIES,"5,21,739.69",May,2020,Liability
+Accounts Payable,"10,31,653.10",May,2020,Liability
+Accrued Liabilities,"5,14,901.09",May,2020,Liability
+Accrued Salaries,"5,31,645.84",May,2020,Liability
+Accrued Leave Payable,"25,99,939.72",May,2020,Liability
+Total Liabilities EQUITY,"4,06,09,041.15",May,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,32,08,980.87",May,2020,Liability
+Cash,"3,54,30,058.22",May,2021,Asset
+Accounts   Receivable,"87,024.02",May,2021,Asset
+Prepaid   Expenses,"2,60,163.83",May,2021,Asset
+Fixed   Assets,"4,45,23,261.01",May,2021,Asset
+Less  Accum   Depreciation,"-3,27,91,431.55",May,2021,Asset
+TOTAL   ASSETS,"4,75,09,075.53",May,2021,Asset
+Accounts   Payable,"4,40,138.07",May,2021,Liability
+Distributions   Payable,"8,73,756.77",May,2021,Liability
+Accrued   Liabilities,"15,42,349.19",May,2021,Liability
+Accrued   Salaries,"5,45,686.17",May,2021,Liability
+Accrued   Leave   Payable,"5,91,246.40",May,2021,Liability
+Total   Liabilities,"39,93,176.60",May,2021,Liability
+EQUITY,"4,35,15,898.93",May,2021,Liability
+TOTAL   LIABILITIES   &   EQUITY,"4,75,09,075.53",May,2021,Liability
+Cash--Operating,"2,01,86,364.34",May,2022,Asset
+Cash--Restricted,"2,22,83,679.91",May,2022,Asset
+Accounts Receivable,"2,46,423.99",May,2022,Asset
+Prepaid Expenses,"3,36,780.01",May,2022,Asset
+Fixed Assets,"4,15,01,154.81",May,2022,Asset
+Less Accum Depreciation,"-3,35,92,262.71",May,2022,Asset
+TOTAL ASSETS,"5,09,62,140.35",May,2022,Asset
+Accounts Payable,"5,81,400.15",May,2022,Liability
+Distributions Payable,"24,40,185.26",May,2022,Liability
+Accrued Liabilities,"18,79,303.41",May,2022,Liability
+Accrued Salaries,"2,77,346.57",May,2022,Liability
+Accrued Leave Payable,"5,50,931.92",May,2022,Liability
+Total Liabilities,"57,29,167.31",May,2022,Liability
+EQUITY,"4,52,32,973.04",May,2022,Liability
+TOTAL LIABILITIES & EQUITY,"5,09,62,140.35",May,2022,Liability
+Cash--Operating,"2,42,90,215.76",May,2023,Asset
+Cash--Restricted,"1,41,97,860.74",May,2023,Asset
+Accounts Receivable,"2,54,894.50",May,2023,Asset
+Prepaid Expenses,"2,65,579.32",May,2023,Asset
+Fixed Assets,"4,22,40,627.39",May,2023,Asset
+Less Accum Depreciation,"-3,14,28,026.19",May,2023,Asset
+TOTAL ASSETS,"4,98,21,151.52",May,2023,Asset
+Accounts Payable,"5,81,348.79",May,2023,Liability
+Distributions Payable,"19,26,894.24",May,2023,Liability
+Accrued Liabilities,"11,83,955.03",May,2023,Liability
+Accrued Salaries,"3,18,114.32",May,2023,Liability
+Accrued Leave Payable,"5,77,866.10",May,2023,Liability
+Total Liabilities,"45,88,178.48",May,2023,Liability
+EQUITY,"4,52,32,973.04",May,2023,Liability
+TOTAL LIABILITIES & EQUITY,"4,98,21,151.52",May,2023,Liability
+Cash,"2,93,32,012.13",June,2020,Asset
+Accounts Receivable,"1,60,543.71",June,2020,Asset
+Prepaid Expenses,"2,46,833.87",June,2020,Asset
+Fixed Assets,"4,43,57,926.50",June,2020,Asset
+Less Accum Depreciation,"3,02,77,092.64",June,2020,Asset
+TOTAL ASSETS,"4,38,20,223.57",June,2020,Asset
+Accounts Payable,"8,09,975.16",June,2020,Liability
+Accrued Liabilities,"13,12,668.04",June,2020,Liability
+Accrued Salaries,"2,65,498.09",June,2020,Liability
+Accrued Leave Payable,"5,41,479.88",June,2020,Liability
+Total Liabilities,"29,29,621.17",June,2020,Liability
+EQUITY,"4,08,90,602.40",June,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,38,20,223.57",June,2020,Liability
+Cash,"3,71,22,758.00",June,2021,Asset
+Accounts Receivable,"99,772.40",June,2021,Asset
+Prepaid Expenses,"2,78,769.33",June,2021,Asset
+Fixed Assets,"4,44,74,738.16",June,2021,Asset
+Less Accum Depreciation,"3,30,97,259.16",June,2021,Asset
+TOTAL ASSETS,"4,88,78,778.73",June,2021,Asset
+Accounts Payable,"4,12,193.50",June,2021,Liability
+Distributions Payable,"24,55,786.22",June,2021,Liability
+Accrued Liabilities,"12,52,820.60",June,2021,Liability
+Accrued Salaries,"3,00,950.92",June,2021,Liability
+Accrued Leave Payable,"5,86,778.10",June,2021,Liability
+Total Liabilities,"50,08,529.34",June,2021,Liability
+EQUITY,"4,38,70,249.39",June,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,88,78,778.73",June,2021,Liability
+Cash--Operating,"2,04,90,623.98",June,2022,Asset
+Cash--Restricted,"2,18,86,087.87",June,2022,Asset
+Accounts Receivable,"2,56,216.68",June,2022,Asset
+Prepaid Expenses,"2,93,548.84",June,2022,Asset
+Fixed Assets,"4,17,89,687.43",June,2022,Asset
+Less Accum Depreciation,"3,38,67,195.09",June,2022,Asset
+TOTAL ASSETS,"5,08,48,969.71",June,2022,Asset
+Accounts Payable,"11,23,939.18",June,2022,Liability
+Distributions Payable,"15,92,802.65",June,2022,Liability
+Accrued Liabilities,"19,95,060.70",June,2022,Liability
+Accrued Salaries,"3,44,798.86",June,2022,Liability
+Accrued Leave Payable,"5,59,395.28",June,2022,Liability
+Total Liabilities,"56,15,996.67",June,2022,Liability
+EQUITY,"4,52,32,973.04",June,2022,Liability
+TOTAL LIABILITIES & EQUITY,"5,08,48,969.71",June,2022,Liability
+Cash--Operating,"2,49,45,870.16",June,2023,Asset
+Cash--Restricted,"1,29,34,680.25",June,2023,Asset
+Accounts Receivable,"5,14,459.92",June,2023,Asset
+Prepaid Expenses,"2,55,506.02",June,2023,Asset
+Fixed Assets,"4,37,78,776.34",June,2023,Asset
+Less Accum Depreciation,"3,10,88,860.28",June,2023,Asset
+TOTAL ASSETS,"5,13,40,432.41",June,2023,Asset
+Accounts Payable,"21,74,016.25",June,2023,Liability
+Distributions Payable,"16,14,443.95",June,2023,Liability
+Accrued Liabilities,"13,31,017.94",June,2023,Liability
+Accrued Salaries,"3,97,410.15",June,2023,Liability
+Accrued Leave Payable,"5,90,571.08",June,2023,Liability
+Total Liabilities,"61,07,459.37",June,2023,Liability
+EQUITY,"4,52,32,973.04",June,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,13,40,432.41",June,2023,Liability
+Cash,"3,06,02,582.21",July,2020,Asset
+Accounts Receivable,"1,30,527.11",July,2020,Asset
+Prepaid Expenses,"2,64,337.52",July,2020,Asset
+Fixed Assets,"4,50,01,161.46",July,2020,Asset
+Less Accum Depreciation,"3,06,36,452.3",July,2020,Asset
+TOTAL ASSETS,"4,53,62,156.00",July,2020,Asset
+Accounts Payable,"9,59,232.31",July,2020,Liability
+Distributions Payable,"9,68,660.67",July,2020,Liability
+Accrued Liabilities,"12,85,060.61",July,2020,Liability
+Accrued Salaries,"3,57,243.70",July,2020,Liability
+Accrued Leave Payable,"5,41,996.65",July,2020,Liability
+Total Liabilities,"41,12,193.94",July,2020,Liability
+EQUITY,"4,12,49,962.06",July,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,53,62,156.00",July,2020,Liability
+Cash,"36,421,281. 78",July,2021,Asset
+Accounts Receivable,"1,03,859.44",July,2021,Asset
+Prepaid Expenses,"2,75,701.06",July,2021,Asset
+Fixed Assets,"4,42,17,491.99",July,2021,Asset
+Less Accum Depreciation,"3,31,67,930.36",July,2021,Asset
+TOTAL ASSETS,"4,78,50,403.91",July,2021,Asset
+Accounts Payable,"3,97,890.83",July,2021,Liability
+Distributions Payable,"9,34,246.36",July,2021,Liability
+Accrued Liabilities,"13,46,004.09",July,2021,Liability
+Accrued Salaries,"3,59,721.13",July,2021,Liability
+Accrued Leave Payable,"5,87,390.49",July,2021,Liability
+Total Liabilities,"36,25,252.90",July,2021,Liability
+EQUITY,"4,42,25,151.01",July,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,78,50,403.91",July,2021,Liability
+Cash--Operating,"1,97,40,976.03",July,2022,Asset
+Cash--Restricted,"2,15,95,786.81",July,2022,Asset
+Accounts Receivable,"2,06,502.88",July,2022,Asset
+Prepaid Expenses,"2,60,540.04",July,2022,Asset
+Fixed Assets,"4,13,73,783.49",July,2022,Asset
+Less Accum Depreciation,"3,37,32,569.78",July,2022,Asset
+TOTAL ASSETS,"4,94,45,019.47",July,2022,Asset
+Accounts Payable,"6,39,135.29",July,2022,Liability
+Distributions Payable,"9,38,056.89",July,2022,Liability
+Accrued Liabilities,"16,67,227.13",July,2022,Liability
+Accrued Salaries,"3,93,477.28",July,2022,Liability
+Accrued Leave Payable,"5,74,149.84",July,2022,Liability
+Total Liabilities,"42,12,046.43",July,2022,Liability
+EQUITY,"4,52,32,973.04",July,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,94,45,019.47",July,2022,Liability
+Cash--Operating,"2,50,48,172.14",July,2023,Asset
+Cash--Restricted,"1,12,89,835.25",July,2023,Asset
+Accounts Receivable,"5,03,720.52",July,2023,Asset
+Prepaid Expenses,"2,51,041.36",July,2023,Asset
+Fixed Assets,"4,65,61,930.79",July,2023,Asset
+Less Accum Depreciation,"3,14,59,977.47",July,2023,Asset
+TOTAL ASSETS,"5,21,94,722.59",July,2023,Asset
+Accounts Payable,"30,90,927.66",July,2023,Liability
+Distributions Payable,"12,70,608.41",July,2023,Liability
+Accrued Liabilities,"15,82,242.09",July,2023,Liability
+Accrued Salaries,"4,27,780.27",July,2023,Liability
+Accrued Leave Payable,"5,90,191.12",July,2023,Liability
+Total Liabilities,"69,61,749.55",July,2023,Liability
+EQUITY,"4,52,32,973.04",July,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,21,94,722.59",July,2023,Liability
+Cash,"3,20,94,379.96",August,2020,Asset
+Accounts Receivable,"1,04,276.85",August,2020,Asset
+Prepaid Expenses,"2,90,509.21",August,2020,Asset
+Fixed Assets,"4,52,41,099.56",August,2020,Asset
+Less Accum Depreciation,"-3,09,50,645.41",August,2020,Asset
+TOTAL ASSETS,"4,67,79,620.17",August,2020,Asset
+Accounts Payable,"11,19,997.37",August,2020,Liability
+Distributions Payable,"23,97,742.23",August,2020,Liability
+Accrued Liabilities,"14,48,386.97",August,2020,Liability
+Accrued Salaries,"3,90,597.88",August,2020,Liability
+Accrued Leave Payable,"5,32,293.32",August,2020,Liability
+Total Liabilities,"58,89,017.77",August,2020,Liability
+EQUITY,"4,08,90,602.40",August,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,67,79,620.17",August,2020,Liability
+Cash,"3,77,45,034.87",August,2021,Asset
+Accounts Receivable,"91,634.90",August,2021,Asset
+Prepaid Expenses,"3,05,062.84",August,2021,Asset
+Fixed Assets,"4,42,17,491.99",August,2021,Asset
+Less Accum Depreciation,"3,35,21,075.21",August,2021,Asset
+TOTAL ASSETS,"4,88,38,149.39",August,2021,Asset
+Accounts Payable,"4,75,484.94",August,2021,Liability
+Distributions Payable,"14,56,169.63",August,2021,Liability
+Accrued Liabilities,"13,37,572.25",August,2021,Liability
+Accrued Salaries,"4,19,125.10",August,2021,Liability
+Accrued Leave Payable,"5,71,501.61",August,2021,Liability
+Total Liabilities,"42,59,853.53",August,2021,Liability
+EQUITY,"4,45,78,295.86",August,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,88,38,149.39",August,2021,Liability
+Cash--Operating,"2,11,51,032.31",August,2022,Asset
+Cash--Restricted,"2,11,74,550.73",August,2022,Asset
+Accounts Receivable,"2,54,934.51",August,2022,Asset
+Prepaid Expenses,"3,08,721.41",August,2022,Asset
+Fixed Assets,"4,15,81,423.31",August,2022,Asset
+Less Accum Depreciation,"3,39,61,423.19",August,2022,Asset
+TOTAL ASSETS,"5,05,09,239.08",August,2022,Asset
+Accounts Payable,"9,72,395.16",August,2022,Liability
+Distributions Payable,"19,83,928.94",August,2022,Liability
+Accrued Liabilities,"13,12,286.56",August,2022,Liability
+Accrued Salaries,"4,59,449.65",August,2022,Liability
+Accrued Leave Payable,"5,48,205.73",August,2022,Liability
+Total Liabilities,"52,76,266.04",August,2022,Liability
+EQUITY,"4,52,32,973.04",August,2022,Liability
+TOTAL LIABILITIES & EQUITY,"5,05,09,239.08",August,2022,Liability
+Cash--Operating,"2,75,88,927.74",August,2023,Asset
+Cash--Restricted,"67,55,067.44",August,2023,Asset
+Accounts   Receivable,"5,13,485.20",August,2023,Asset
+Prepaid   Expenses,"2,77,815.27",August,2023,Asset
+Fixed   Assets,"4,88,23,427.29",August,2023,Asset
+Less   Accum   Depreciation,"-3,17,96,885.61",August,2023,Asset
+TOTAL   ASSETS,"5,21,61,837.33",August,2023,Asset
+Accounts   Payable,"24,55,698.09",August,2023,Liability
+Distributions   Payable,"22,05,627.70",August,2023,Liability
+Accrued   Liabilities,"11,76,346.63",August,2023,Liability
+Accrued   Salaries,"5,09,908.57",August,2023,Liability
+Accrued   Leave   Payable,"5,81,283.30",August,2023,Liability
+Total   Liabilities,"69,28,864.29",August,2023,Liability
+EQUITY,"4,52,32,973.04",August,2023,Liability
+TOTAL   LIABILITIES   &   EQUITY,"5,21,61,837.33",August,2023,Liability
+Cash,"3,32,14,307.99",September,2020,Asset
+Accounts Receivable,"1,29,705.56",September,2020,Asset
+Prepaid Expenses,"2,50,568.64",September,2020,Asset
+Fixed Assets,"4,55,61,576.45",September,2020,Asset
+Less Accum Depreciation,"-3,11,11,669.20",September,2020,Asset
+TOTAL ASSETS,"4,80,44,489.44",September,2020,Asset
+Accounts Payable,"6,92,483.72",September,2020,Liability
+Distributions Payable,"42,20,579.40",September,2020,Liability
+Accrued Liabilities,"12,22,160.29",September,2020,Liability
+Accrued Salaries,"4,80,975.42",September,2020,Liability
+Accrued Leave Payable,"5,37,688.21",September,2020,Liability
+Total Liabilities,"71,53,887.04",September,2020,Liability
+EQUITY,"4,08,90,602.40",September,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,80,44,489.44",September,2020,Liability
+Cash,"3,81,94,048.04",September,2021,Asset
+Accounts Receivable,"68,465.18",September,2021,Asset
+Prepaid Expenses,"2,60,397.04",September,2021,Asset
+Fixed Assets,"4,33,46,687.49",September,2021,Asset
+Less Accum Depreciation,"3,29,81,060.79",September,2021,Asset
+TOTAL ASSETS,"4,88,88,536.96",September,2021,Asset
+Accounts Payable,"4,01,742.75",September,2021,Liability
+Distributions Payable,"12,35,545.80",September,2021,Liability
+Accrued Liabilities,"12,47,628.83",September,2021,Liability
+Accrued Salaries,"5,09,033.59",September,2021,Liability
+Accrued Leave Payable,"5,85,500.05",September,2021,Liability
+Total Liabilities,"39,79,451.02",September,2021,Liability
+EQUITY,"4,49,09,085.94",September,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,88,88,536.96",September,2021,Liability
+Cash--Operating,"2,11,68,805.37",September,2022,Asset
+Cash--Restricted,"2,06,49,103.73",September,2022,Asset
+Accounts Receivable,"1,22,663.27",September,2022,Asset
+Prepaid Expenses,"2,82,764.22",September,2022,Asset
+Fixed Assets,"4,15,73,227.39",September,2022,Asset
+Less Accum Depreciation,"3,42,22,454.41",September,2022,Asset
+TOTAL ASSETS,"4,95,74,109.57",September,2022,Asset
+Accounts Payable,"3,80,035.00",September,2022,Liability
+Distributions Payable,"14,69,914.61",September,2022,Liability
+Accrued Liabilities,"14,58,043.39",September,2022,Liability
+Accrued Salaries,"5,01,104.02",September,2022,Liability
+Accrued Leave Payable,"5,32,039.51",September,2022,Liability
+Total Liabilities,"43,41,136.53",September,2022,Liability
+EQUITY,"4,52,32,973.04",September,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,95,74,109.57",September,2022,Liability
+Cash--Operating,"2,66,52,210.41",September,2023,Asset
+Cash--Restricted,"55,73,357.44",September,2023,Asset
+Accounts Receivable,"6,23,757.34",September,2023,Asset
+Prepaid Expenses,"2,57,881.98",September,2023,Asset
+Fixed Assets,"4,88,82,886.12",September,2023,Asset
+Less Accum Depreciation,"3,09,05,394.82",September,2023,Asset
+TOTAL ASSETS,"5,10,84,698.47",September,2023,Asset
+Accounts Payable,"17,46,772.40",September,2023,Liability
+Distributions Payable,"12,36,186.63",September,2023,Liability
+Accrued Liabilities,"17,08,803.09",September,2023,Liability
+Accrued Salaries,"5,67,369.60",September,2023,Liability
+Accrued Leave Payable,"5,92,593.71",September,2023,Liability
+Total Liabilities,"58,51,725.43",September,2023,Liability
+EQUITY,"4,52,32,973.04",September,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,10,84,698.47",September,2023,Liability
+Cash,"3,50,43,719.72",October,2020,Asset
+Accounts Receivable,"59,890.14",October,2020,Asset
+Prepaid Expenses,"3,49,133.20",October,2020,Asset
+Fixed Assets,"4,53,70,825.20",October,2020,Asset
+Less Accum Depreciation,"3,10,65,389.76",October,2020,Asset
+TOTAL ASSETS,"4,97,58,178.50",October,2020,Asset
+Accounts Payable,"8,30,412.26",October,2020,Liability
+Distributions Payable,"51,32,132.54",October,2020,Liability
+Accrued Liabilities,"14,95,642.95",October,2020,Liability
+Accrued Salaries,"5,05,893.57",October,2020,Liability
+Accrued Leave Payable,"5,31,083.31",October,2020,Liability
+Total Liabilities,"84,95,164.63",October,2020,Liability
+EQUITY,"4,12,63,013.87",October,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,97,58,178.50",October,2020,Liability
+Cash,"3,87,04,460.59",October,2021,Asset
+Accounts Receivable,"1,01,368.83",October,2021,Asset
+Prepaid Expenses,"2,79,191.87",October,2021,Asset
+Fixed Assets,"4,31,81,565.01",October,2021,Asset
+Less Accum Depreciation,"3,31,39,825.41",October,2021,Asset
+TOTAL ASSETS,"4,91,26,760.89",October,2021,Asset
+Accounts Payable,"4,14,331.94",October,2021,Liability
+Distributions Payable,"6,95,510.77",October,2021,Liability
+Accru.ed Liabilities,"16,97,226.96",October,2021,Liability
+Accru.ed Salaries,"5,11,633.57",October,2021,Liability
+Accru.ed Leave Payable,"5,75,084.61",October,2021,Liability
+Total Liabilities,"38,93,787.85",October,2021,Liability
+EQUITY,"4,52,32,973.04",October,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,91,26,760.89",October,2021,Liability
+Cash--Operating,"2,14,46,534.83",October,2022,Asset
+Cash--Restricted,"2,06,49,103.73",October,2022,Asset
+Accounts Receivable,"2,19,290.14",October,2022,Asset
+Prepaid Expenses,"3,88,564.43",October,2022,Asset
+Fixed Assets,"4,13,61,219.95",October,2022,Asset
+Less Accum Depreciation,"3,42,68,298.72",October,2022,Asset
+TOTAL ASSETS,"4,97,96,414.36",October,2022,Asset
+Accounts Payable,"3,91,390.11",October,2022,Liability
+Distributions Payable,"15,06,464.52",October,2022,Liability
+Accrued Liabilities,"16,00,123.35",October,2022,Liability
+Accrued Salaries,"5,36,800.73",October,2022,Liability
+Accrued Leave Payable,"5,28,662.61",October,2022,Liability
+Total Liabilities,"45,63,441.32",October,2022,Liability
+EQUITY,"4,52,32,973.04",October,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,97,96,414.36",October,2022,Liability
+Cash--Operating ,"2,76,50,960.63",October,2023,Asset
+Cash--Restricted,"52,60,123.02",October,2023,Asset
+Accounts Receivable,"3,61,420.58",October,2023,Asset
+Prepaid Expenses,"3,20,197.14",October,2023,Asset
+Fixed Assets,"4,88,82,886.12",October,2023,Asset
+Less Accum Depreciation,"3,13,02,330.12",October,2023,Asset
+TOTAL ASSETS,"5,11,73,257.37",October,2023,Asset
+Accounts Payable,"5,88,375.44",October,2023,Liability
+Distributions Payable,"29,12,129.34",October,2023,Liability
+Accrued Liabilities,"15,62,772.73",October,2023,Liability
+Accrued Salaries,"2,94,503.63",October,2023,Liability
+Accrued Leave Payable,"5,82,503.19",October,2023,Liability
+Total Liabilities,"59,40,284.33",October,2023,Liability
+EQUITY,"4,52,32,973.04",October,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,11,73,257.37",October,2023,Liability
+Cash,"3,13,12,372.62",November,2020,Asset
+Accounts Receivable,"95,239.27",November,2020,Asset
+Prepaid Expenses,"3,50,628.13",November,2020,Asset
+Fixed Assets,"4,49,69,464.29",November,2020,Asset
+Less Accum Depreciation,"-3,10,61,079.26",November,2020,Asset
+TOTAL ASSETS,"4,56,66,625.05",November,2020,Asset
+Accounts Payable,"4,46,200.49",November,2020,Liability
+Distributions Payable,"9,25,701.12",November,2020,Liability
+Accrued Liabilities,"15,87,786.12",November,2020,Liability
+Accrued Salaries,"5,41,402.48",November,2020,Liability
+Accrued Leave Payable,"5,31,487.38",November,2020,Liability
+Total Liabilities,"40,32,577.59",November,2020,Liability
+EQUITY,"4,16,34,047.46",November,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,56,66,625.05",November,2020,Liability
+Cash,"3,97,93,207.19",November,2021,Asset
+Accounts Receivable,"1,88,237.83",November,2021,Asset
+Prepaid Expenses,"4,75,246.24",November,2021,Asset
+Fixed Assets,"4,29,23,359.02",November,2021,Asset
+Less Accum Depreciation,"3,32,03,267.42",November,2021,Asset
+TOTAL ASSETS,"5,01,76,782.86",November,2021,Asset
+Accounts Payable,"3,39,425.70",November,2021,Liability
+Distributions Payable,"20,82,857.66",November,2021,Liability
+Accrued Liabilities,"13,92,450.38",November,2021,Liability
+Accrued Salaries,"5,71,087.91",November,2021,Liability
+Accrued Leave Payable,"5,57,988.17",November,2021,Liability
+Total Liabilities,"49,43,809.82",November,2021,Liability
+EQUITY,"4,52,32,973.04",November,2021,Liability
+TOTAL LIABILITIES & EQUITY,"5,01,76,782.86",November,2021,Liability
+Cash--Operating,"2,21,29,627.22",November,2022,Asset
+Cash--Restricted,"2,03,48,762.73",November,2022,Asset
+Accounts Receivable,"2,24,264.16",November,2022,Asset
+Prepaid Expenses,"4,95,076.21",November,2022,Asset
+Fixed Assets,"4,13,96,414.16",November,2022,Asset
+Less Accum Depreciation                       ,"3,42,56,888.74",November,2022,Asset
+TOTAL ASSETS                                  ,"5,03,37,255.74",November,2022,Asset
+Accounts Payable,"7,18,099.90",November,2022,Liability
+Distributions Payable,"21,33,779.96",November,2022,Liability
+Accrued Liabilities,"14,37,004.18",November,2022,Liability
+Accrued Salaries,"2,91,474.63",November,2022,Liability
+Accrued Leave Payable,"5,23,924.03",November,2022,Liability
+Total Liabilities,"51,04,282.70",November,2022,Liability
+EQUITY,"4,52,32,973.04",November,2022,Liability
+TOTAL LIABILITIES & EQUITY,"5,03,37,255.74",November,2022,Liability
+Cash--Operating,"2,60,44,278.15",November,2023,Asset
+Cash--Restricted,"48,18,200.47",November,2023,Asset
+Accounts Receivable,"4,43,373.01",November,2023,Asset
+Prepaid Expenses,"10,53,427.13",November,2023,Asset
+Fixed Assets,"4,89,41,708.86",November,2023,Asset
+Less Accum Depreciation,"3,16,80,181.24",November,2023,Asset
+TOTAL ASSETS,"4,96,20,806.38",November,2023,Asset
+Accounts Payable,"9,31,324.31",November,2023,Liability
+Distributions Payable,"11,07,651.80",November,2023,Liability
+Accrued Liabilities,"14,17,667.01",November,2023,Liability
+Accrued Salaries,"3,57,768.42",November,2023,Liability
+Accrued Leave Payable,"5,73,421.80",November,2023,Liability
+Total Liabilities,"43,87,833.34",November,2023,Liability
+EQUITY,"4,52,32,973.04",November,2023,Liability
+TOTAL LIABILITIES & EQUITY,"4,96,20,806.38",November,2023,Liability
+Cash,"2,75,46,125.25",December,2019,Asset
+Accounts Receivable,"2,28,103.23",December,2019,Asset
+Prepaid Expenses,"4,29,988.47",December,2019,Asset
+Fixed Assets,"4,51,72,917.18",December,2019,Asset
+Less Accum Depreciation,"2,95,46,648.51",December,2019,Asset
+TOTAL ASSETS,"4,38,30,485.62",December,2019,Asset
+Accounts Payable,"5,53,006.07",December,2019,Liability
+Distributions Payable,"15,47,249.10",December,2019,Liability
+Accrued Liabilities,"14,10,653.45",December,2019,Liability
+Accrued Salaries,"2,70,663.87",December,2019,Liability
+Accrued Leave Payable,"4,90,698.84",December,2019,Liability
+Total Liabilities,"42,72,271.33",December,2019,Liability
+EQUITY,"3,95,58,214.29",December,2019,Liability
+TOTAL LIABILITIES &  EQUITY,"4,38,30,485.62",December,2019,Liability
+Cash,"3,17,54,597.73",December,2020,Asset
+Accounts Receivable,"2,47,253.41",December,2020,Asset
+Prepaid Expenses,"3,56,184.28",December,2020,Asset
+Fixed Assets,"4,49,69,464.29",December,2020,Asset
+Less Accum Depreciation,"3,14,32,666.4",December,2020,Asset
+TOTAL ASSETS,"4,58,94,833.31",December,2020,Asset
+Accounts Payable,"5,42,394.04",December,2020,Liability
+Distributions Payable,"11,12,913.37",December,2020,Liability
+Accrued Liabilities,"13,76,608.68",December,2020,Liability
+Accrued Salaries,"3,39,069.18",December,2020,Liability
+Accrued Leave Payable,"5,18,213.44",December,2020,Liability
+Total Liabilities,"38,89,198.71",December,2020,Liability
+EQUITY,"4,20,05,634.60",December,2020,Liability
+TOTAL LIABILITIES & EQUITY,"4,58,94,833.31",December,2020,Liability
+Cash,"3,95,09,213.04",December,2021,Asset
+Accounts Receivable,"1,92,717.22",December,2021,Asset
+Prepaid Expenses,"4,71,285.08",December,2021,Asset
+Fixed Assets,"4,29,23,359.02",December,2021,Asset
+Less Accum Depreciation,"3,35,24,916.06",December,2021,Asset
+TOTAL ASSETS,"4,95,71,658.30",December,2021,Asset
+Accounts Payable,"3,97,111.88",December,2021,Liability
+Distributions Payable,"15,98,981.90",December,2021,Liability
+Accrued Liabilities,"14,50,880.61",December,2021,Liability
+Accrued Salaries,"3,76,938.29",December,2021,Liability
+Accrued Leave Payable,"5,14,772.58",December,2021,Liability
+Total Liabilities,"43,38,685.26",December,2021,Liability
+EQUITY,"4,52,32,973.04",December,2021,Liability
+TOTAL LIABILITIES & EQUITY,"4,95,71,658.30",December,2021,Liability
+Cash--Operating,"2,15,86,278.38",December,2022,Asset
+Cash--Restricted,"1,99,72,453.38",December,2022,Asset
+Accounts Receivable,"3,82,222.25",December,2022,Asset
+Prepaid Expenses,"4,66,140.12",December,2022,Asset
+Fixed Assets,"4,16,41,513.20",December,2022,Asset
+Less Accum Depreciation,"3,45,19,558.56",December,2022,Asset
+TOTAL ASSETS,"4,95,29,048.77",December,2022,Asset
+Accounts Payable,"4,75,756.27",December,2022,Liability
+Distributions Payable,"13,28,760.48",December,2022,Liability
+Accrued Liabilities,"16,34,752.63",December,2022,Liability
+Accrued Salaries,"3,55,441.13",December,2022,Liability
+Accrued Leave Payable,"5,01,365.22",December,2022,Liability
+Total Liabilities,"42,96,075.73",December,2022,Liability
+EQUITY,"4,52,32,973.04",December,2022,Liability
+TOTAL LIABILITIES & EQUITY,"4,95,29,048.77",December,2022,Liability
+Cash--Operating,"2,72,73,506.70",December,2023,Asset
+Cash--Restricted,"39,80,111.46",December,2023,Asset
+Accounts Receivable,"4,69,606.13",December,2023,Asset
+Prepaid Expenses,"10,78,314.89",December,2023,Asset
+Fixed Assets,"4,98,79,776.39",December,2023,Asset
+Less Accum Depreciation,"-3,12,68,571.50",December,2023,Asset
+TOTAL ASSETS,"5,14,12,744.07",December,2023,Asset
+Accounts Payable,"21,81,320.93",December,2023,Liability
+Distributions Payable,"7,99,313.84",December,2023,Liability
+Accrued Liabilities,"22,59,456.92",December,2023,Liability
+Accrued Salaries,"3,86,900.61",December,2023,Liability
+Accrued Leave Payable,"5,52,778.73",December,2023,Liability
+Total Liabilities,"61,79,771.03",December,2023,Liability
+EQUITY,"4,52,32,973.04",December,2023,Liability
+TOTAL LIABILITIES & EQUITY,"5,14,12,744.07",December,2023,Liability
