@@ -62,6 +62,12 @@ At the end of the semester during project wrap up open a final Pull Request to m
 
 In this section, you should include the project description, either from the client or spark.
 
+This project focuses on transforming a newly released cache of slot-machine records from U.S. military bases—obtained through MuckRock from the Army Recreation Machine Program (ARMP)—into a clean, analyzable dataset. ARMP currently operates 1,889 slot machines across 79 overseas locations and reported $70.9 million in revenue during fiscal year 2024. Because the raw data exists only as tables embedded in PDFs, the first objective is to extract all fields, standardize the schema, resolve inconsistencies, and prepare a reliable foundation for analysis. With a structured dataset, the project will produce an initial exploratory interface that highlights revenue patterns and other key metrics across branches, regions, and individual bases, ultimately surfacing early insights and follow-up questions worth pursuing.
+
+Beyond simple cleaning, this analysis aims to uncover deeper patterns regarding financial concentration, machine-type performance, and potential behavioral-risk indicators for deployed service members. A reproducible extraction and cleaning pipeline—paired with documentation, a data dictionary, and transparent code—will support ongoing work and enable additional analyses as more data becomes available. Final deliverables include a fully cleaned dataset, all scripts and documentation pushed to GitHub and shared via Google Drive, visualizations and preparation code, and a deployed Datasette
+<img width="14272" height="205" alt="image" src="https://github.com/user-attachments/assets/faa5f4c1-559e-4b2f-85bf-c972e4438eb6" />
+
+
 Please make sure it reflects what you see on the documents (project description) you recieved.
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Donec vel nunc at libero ultrices tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris ut ligula nec risus posuere ultricies at et ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
