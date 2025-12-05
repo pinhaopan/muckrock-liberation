@@ -76,3 +76,14 @@ In this section, you should include the location of all of your datasets for the
   - [description]
 * Location 2: [location]
   - [description]
+  - 
+
+  ## 📂 README Directory
+
+This section serves as a directory for more detailed, topic-specific README files within the repository.  
+Use the links below to dive into specific parts of the project:
+
+- [Asset Reports Read Me](fa25-team-a/asset_reports_READ_ME.md)
+ 
+
+
