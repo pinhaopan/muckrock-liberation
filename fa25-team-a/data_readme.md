@@ -66,13 +66,70 @@ Marine Revenue basically has 2 formats, one in which an average summary is maint
 - For Format-2, it is observed that there there was data collection every month for every Marine Base but sometimes no data was uploaded, hence leaving negligible revenue figures. It could also be observed that the year total was measured in the end of September Month.
 
 ### Navy Revenue
-
+Originally, there are 2 files for Navy Revenue, but they are continuation of each other. And both of these file have the same pattern as Marine Revenue with similar attributes.
 
 ### Asset Reports
+This is one of the major file for Slot Machine installations and their counts. There 5 files of Asset Reports and they are provided on the basis of the year they represent. Moreover, all of these have the same structure, and they have 4 formats in total.
 
+#### Format-1
+This format provides information on how many machines are present and of which type are they present, at each and every base. These bases are also divided into 3 regions, which are _Europe_, _Korea_ and _Japan_.
+
+#### Format-2
+This format for mapping which machine was installed by which manufacturer. This data is present for each and every base, but it does not mean that the data shown in this format shows implementation on new machines. This format only justifies, haw many machines are present.
+
+#### Format-3
+This format shows the installation and effective dates of the machines, and also provides the serial numbers of the slot machines. This format also shows that machines listed in here are in storage spaces. These machines might have been moved from main playable area to the storage area.
+
+#### Format-4
+This format displays the details of gambling machines that have been installed at the military bases, along with their serial numbers, manufacturers, age, acquired dates and description.
+
+#### Redacted Data
+For the cleaning purpose, pages with redacted data were omitted, since at that time these pages did not seemed to have any importance. But these pages display the machine malfunction details. The only redacted part contains emails of the military officials, making their complaints to fix the gambling machines. From this data one can find different patterns on frequency of machine malfunctions.
 
 ### Revenue Comparison
-
+This is the file with most messy data. Around 52% of this file contains redacted data and that data contains the populations of military officials on the base. It also justifies that Civilians could come on the military bases and gamble, but the figure is classified.
 
 
 ## Extracted Data
+The extracted data is stored in the folder named data, and the structure of the database is as follow:-
+- data
+    - Financial Statements
+        - Financial Statements Format-1.csv
+        - Financial Statements Format-2 Europe.csv
+        - Financial Statements Format-2 Korea.csv
+        - Financial Statements Format-2 Japan.csv
+        - Financial Statements Format-3 Europe.csv
+        - Financial Statements Format-3 Korea.csv
+        - Financial Statements Format-3 Japan.csv
+        - Financial Statements Format-4.csv
+    - Navy Revenue
+        - Navy Revenue Report FY16-FY24-1 Format 1.csv
+        - Navy Revenue Report FY20-FY24-1 Format 2.csv
+    - Marine Revenue
+        - Marine Revenue FY20-FY24 Format 1.csv
+        - Marine Revenue FY20-FY24 Format 2.csv
+    - District Revenue
+        - District Revenue Format 2_2.csv
+        - District Revenue Format 2_3.csv
+        - District Revenue Format 3.csv
+    - Asset Reports
+        - Asset Report FY20-FY24 Format 1.csv
+        - Asset Report FY20-FY24 Format 2.csv
+        - Asset Report FY20-FY24 Format 3.csv
+        - Asset Report FY20-FY24 Format 4.csv
+    - bases.json
+
+### Financial Statements
+This folder contains all the formatted data in CSVs for the military financial statements. This folder contains all 4 formats of the financial statements wherein format 2 and 3 are further subdivided on the basis of their region.
+
+### Navy Revenue and Marine Revenue
+There are 2 CSV files one is format 1 and another is the format 2. Format 1 consists of the overall cumulative revenue generation data spread across from the year 2016 to 2024, for all the bases. And the format 2 is for all the detailed analysis. This same goes for Marine Revenue.
+
+### District Revenue
+District Revenue is divided into 3 different formats, from which format 2 and 3 have been included in the data folder on the repo. Format-1 was much messy and the time did not allow to clean it properly. Furthermore, Format-2 was much massive, hence it had to be divided into 2 parts for cleaning.
+
+### Asset Reports
+All the 4 formats of Asset Reports have been cleaned and converted into clean CSVs for further processing.
+
+### bases.json
+This JSON file has been retrieved from the github repo (https://gist.github.com/julesblm/0f8578f9307f60df1cbe216d3d31d985) and data from this file was then mapped with all the relevant CSVs that contained bases names. bases.json consists of latitude and longitude details of all the foreign US Military bases with description.
