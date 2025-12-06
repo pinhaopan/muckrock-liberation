@@ -2281,5 +2281,19 @@
     "lat": 49.746883,
     "lon": 6.634751,
     "notes": ""
+  },
+  {
+    "country": "Germany",
+    "name": "Vilseck",
+    "lat": 49.610007,
+    "lon": 11.806215,
+    "notes": ""
+  },
+  {
+    "country": "Germany",
+    "name": "Wiesbaden",
+    "lat": 50.06308,
+    "lon": 8.243344,
+    "notes": ""
   }
 ]
