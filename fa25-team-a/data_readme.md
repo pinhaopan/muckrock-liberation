@@ -115,7 +115,6 @@ The extracted data is stored in the folder named data, and the structure of the 
     - Asset Reports
         - Asset Report FY20-FY24 Format 1.csv
         - Asset Report FY20-FY24 Format 2.csv
-        - Asset Report FY20-FY24 Format 3.csv
         - Asset Report FY20-FY24 Format 4.csv
     - bases.json
 
